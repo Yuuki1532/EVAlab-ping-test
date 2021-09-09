@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVAlab ping test", "EVAlab ping test\EVAlab ping test.csproj", "{5BE96C5B-9495-40B8-BF0A-4B299842F8A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE96C5B-9495-40B8-BF0A-4B299842F8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE96C5B-9495-40B8-BF0A-4B299842F8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE96C5B-9495-40B8-BF0A-4B299842F8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE96C5B-9495-40B8-BF0A-4B299842F8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5A203B8-F64E-472A-AC06-D8865E2947F5}
+	EndGlobalSection
+EndGlobal
